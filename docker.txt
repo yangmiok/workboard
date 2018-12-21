@@ -1,0 +1,15 @@
+docker的安装
+ubuntu系统
+curl -fsSL https://get.docker.com/ | sh
+wget -qO- https://get.docker.com/ | sh
+yum install docker-io
+sudo usermod -aG docker root
+sudo service docker start
+查找docker config文件位置
+docker info | grep "Docker Root Dir"
+
+Docker-compose安装
+curl -L https://get.daocloud.io/docker/compose/releases/download/1.17.0/docker-compose-`uname -s`-`uname -m` > ~/docker-compose
+sudo mv ~/docker-compose /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+sudo service docker restart
