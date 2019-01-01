@@ -2,8 +2,9 @@ docker run -it --rm erlang /bin/bash
 docker system prune
 
 删除所有镜像
+'''
 docker rmi $(docker images -q)
-
+'''
 杀死所有正在运行的容器
 docker kill $(docker ps -a -q)
 删除所有已经停止的容器
