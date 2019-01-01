@@ -1,5 +1,5 @@
 docker run -it --rm erlang /bin/bash
-docker system prune
+- docker system prune
 
 删除所有镜像
 
