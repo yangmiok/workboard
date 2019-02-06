@@ -37,7 +37,7 @@ def postonetime():
 
     data = {'phone': phone,
             'verify': 'KPJRV',}
-    url = 'http://www.chinaipo.com/index.php?app=public&mod=Register&act=sendReigterCode'
+    url = ''
     response = s.post(url, headers=headers, data=data)
     print(response.content)
     return response.content
