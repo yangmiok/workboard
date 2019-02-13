@@ -12,5 +12,5 @@ docker run -it --rm erlang /bin/bash
 删除所有未打 dangling 标签的镜像
 - docker rmi $(docker images -q -f dangling=true)
 
-
+https://www.paterva.com/web7/community/community.php
 https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#
