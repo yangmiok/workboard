@@ -10,7 +10,9 @@ docker run -it --rm erlang /bin/bash
 删除所有已经停止的容器
 - docker rm $(docker ps -a -q)
 删除所有未打 dangling 标签的镜像
-- docker rmi $(docker images -q -f dangling=true)
+c docker rmi $(docker images -q -f dangling=true)
 
+
+https://portswigger.net/burp/communitydownload
 https://www.paterva.com/web7/community/community.php
 https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#
