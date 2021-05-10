@@ -32,3 +32,14 @@ docker exec -it chiaok venv/bin/chia plots create -k 32 -f b7be10ac7eb05fbf27af6
 
 
 0x1a9dccc03d3762a597e517957bc436737d6a3c22
+
+
+
+clef-signer-enable: false
+data-dir: D:/swarm
+swap-enable: true
+swap-endpoint: http://rpc.slock.it/goerli
+verbosity: trace
+welcome-message: "okokoko"
+debgu-api-enable: true
+
