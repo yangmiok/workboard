@@ -1,3 +1,10 @@
+
+apt-get update -y && apt-get install docker -y && apt-get install docker-compose -y
+
+
+
+
+
 docker run -it --rm erlang /bin/bash
 - docker system prune
 
