@@ -1,3 +1,5 @@
+https://goerli.infura.io/v3/59f4c639ec4941548964d3ab772f593b
+
 
 apt-get update -y && apt-get install docker -y && apt-get install docker-compose -y
 
