@@ -1,5 +1,7 @@
 0xa92cec6a3e2d2796044b7002a359ecdc3aa157ae
 
+https://gist.githubusercontent.com/ralph-pichler/3b5ccd7a5c5cd0500e6428752b37e975/raw/aa576d6d28b523ea6f5d4a1ffb3c8cc0bbc2677f/cashout.sh
+
 
 https://goerli.infura.io/v3/59f4c639ec4941548964d3ab772f593b
 
