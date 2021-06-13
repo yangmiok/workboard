@@ -1,6 +1,10 @@
 https://gist.github.com/ralph-pichler/3b5ccd7a5c5cd0500e6428752b37e975
 
 
+https://github.com/ldeffenb/monBee
+https://github.com/doristeo/SwarmMonitoring
+https://github.com/DigiDr/swarm-docker-python-tools
+
 0xa92cec6a3e2d2796044b7002a359ecdc3aa157ae
 
 https://gist.githubusercontent.com/ralph-pichler/3b5ccd7a5c5cd0500e6428752b37e975/raw/aa576d6d28b523ea6f5d4a1ffb3c8cc0bbc2677f/cashout.sh
