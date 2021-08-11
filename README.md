@@ -6,7 +6,7 @@ https://github.com/doristeo/SwarmMonitoring
 https://github.com/DigiDr/swarm-docker-python-tools
 
 0xa92cec6a3e2d2796044b7002a359ecdc3aa157ae
-
+0xb54680e6920dbae42d7cda062735933f94c179a1
 https://gist.githubusercontent.com/ralph-pichler/3b5ccd7a5c5cd0500e6428752b37e975/raw/aa576d6d28b523ea6f5d4a1ffb3c8cc0bbc2677f/cashout.sh
 
 
